@@ -47,21 +47,21 @@ Algoritmo Notherlight
 			Leer Atras 
 		2:
 			Si Datos = Falso Entonces
-				Escribir "¿No olvidas algo importante? ;)"
+				Escribir "Â¿No olvidas algo importante? ;)"
 				
 			SiNo
 				
 			Escribir "Calculando Promedios"
-			Escribir "El alumno"," ", A0," ","Promedió"," ", Promedio1
-			Escribir "El alumno", " ", B0," ", "Promedió"," ", Promedio2
-			Escribir "El alumno"," ", C0," ","Promedió"," ", Promedio3
+			Escribir "El alumno"," ", A0," ","PromediÃ³"," ", Promedio1
+			Escribir "El alumno", " ", B0," ", "PromediÃ³"," ", Promedio2
+			Escribir "El alumno"," ", C0," ","PromediÃ³"," ", Promedio3
 		FinSi
 		Escribir  "Regresando al inicio (presione Enter)"
 		Leer Atras 
 		
 		3:
 			Si Datos = Falso Entonces 
-				Escribir "¿No olvidas algo importante? ;)"
+				Escribir "Â¿No olvidas algo importante? ;)"
 		    Sino 
 				Escribir "Mostrando el mejor promedio"
 				Si Promedio1 = Promedio2 O Promedio3 = Promedio1 Entonces
