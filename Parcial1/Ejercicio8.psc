@@ -3,22 +3,22 @@ Algoritmo Ejercicio8
 	Definir promedioAlumno1, promedioAlumno2 Como Real
 	
 	Escribir "--- Datos del Alumno 1 ---"
-	Escribir "Ingrese la primera calificaci髇: "
+	Escribir "Ingrese la primera calificaci贸n: "
 	Leer Calificacion1Alumno1
-	Escribir "Ingrese la segunda calificaci髇: "
+	Escribir "Ingrese la segunda calificaci贸n: "
 	Leer Calificacion2Alumno1
-	Escribir "Ingrese la tercera calificaci髇: "
+	Escribir "Ingrese la tercera calificaci贸n: "
 	Leer Calificacion3Alumno1
 	
 	promedioAlumno1 <- CalcularPromedio(Calificacion1Alumno1, Calificacion1Alumno1, Calificacion3Alumno1)
 	Escribir "El promedio del Alumno 1 es: ", promedioAlumno1
 	
 	Escribir "--- Datos del Alumno 2 ---"
-	Escribir "Ingrese la primera calificaci髇: "
+	Escribir "Ingrese la primera calificaci贸n: "
 	Leer Calificacion1Alumno2
-	Escribir "Ingrese la segunda calificaci髇: "
+	Escribir "Ingrese la segunda calificaci贸n: "
 	Leer Calificacion2Alumno2
-	Escribir "Ingrese la tercera calificaci髇: "
+	Escribir "Ingrese la tercera calificaci贸n: "
 	Leer Calificacion3Alumno2
 	
 	promedioAlumno2 <- CalcularPromedio(Calificacion1Alumno2, Calificacion2Alumno2, Calificacion3Alumno2)
