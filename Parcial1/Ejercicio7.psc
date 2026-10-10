@@ -9,11 +9,11 @@ Algoritmo Ejercicio7
 	continuar <- "S"
 	
 	Mientras continuar = "S" Hacer
-		Escribir "Ingrese la primera calificación: "
+		Escribir "Ingrese la primera calificaciÃ³n: "
 		Leer p1
-		Escribir "Ingrese la segunda calificación: "
+		Escribir "Ingrese la segunda calificaciÃ³n: "
 		Leer p2
-		Escribir "Ingrese la tercera calificación: "
+		Escribir "Ingrese la tercera calificaciÃ³n: "
 		Leer p3
 		
 		promedioAlumno <- (p1 + p2 + p3) / 3
@@ -22,7 +22,7 @@ Algoritmo Ejercicio7
 		sumaPromedios <- sumaPromedios + promedioAlumno
 		cantidadAlumnos <- cantidadAlumnos + 1
 		
-		Escribir "¿Desea capturar otro alumno? (S/N): "
+		Escribir "Â¿Desea capturar otro alumno? (S/N): "
 		Leer continuar
 	FinMientras
 	
