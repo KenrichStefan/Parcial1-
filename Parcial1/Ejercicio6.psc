@@ -9,7 +9,7 @@ Algoritmo Ejercicio6
 	contDesaprobadas <- 0
 	contador <- 1
 	
-	Escribir "Ingrese el número de notas a evaluar: "
+	Escribir "Ingrese el nÃºmero de notas a evaluar: "
 	Leer n
 	
 	Mientras contador <= n Hacer
