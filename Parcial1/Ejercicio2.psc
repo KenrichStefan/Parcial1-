@@ -1,11 +1,11 @@
 Algoritmo Ejercicio2
 	Definir n1, n2, n3, promedio Como Real
 	
-	Escribir "Ingrese la primera calificación: "
+	Escribir "Ingrese la primera calificaciÃ³n: "
 	Leer n1
-	Escribir "Ingrese la segunda calificación: "
+	Escribir "Ingrese la segunda calificaciÃ³n: "
 	Leer n2
-	Escribir "Ingrese la tercera calificación: "
+	Escribir "Ingrese la tercera calificaciÃ³n: "
 	Leer n3
 	
 	promedio <- (n1 + n2 + n3) / 3
